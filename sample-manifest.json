@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e3017721-5274-43f5-ab71-481b387c24d4",
+  "export_job_id": "585d3ebf-c4f2-46c1-b2a5-4e49f5a798da",
   "id_short": 674941,
-  "published_at": "2026-04-14T07:10:41Z",
+  "published_at": "2026-04-18T19:41:58Z",
   "repo_name": "the-hhi-monopoly-index-for-philadelphia-pennsylvania-us-sample-674941",
   "sample_asset_name": "beamstation_674941_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/674941/beamstation_674941_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_records": 9,
-  "sample_sha256": "364f59ffd93ec64ff039d9260e6c07458d791de350f7f6a10cdef228a391a6bc",
-  "sample_size_bytes": 53345,
-  "total_records": 94
+  "sample_records": 8,
+  "sample_sha256": "7bbfb1a6dabce6018d0c337a8ef5b063324998656568f2cef15d9845fd2330c7",
+  "sample_size_bytes": 49296,
+  "total_records": 84
 }
